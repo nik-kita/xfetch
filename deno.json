@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "xstate": "npm:xstate@^5.15.0"
+  }
+}
